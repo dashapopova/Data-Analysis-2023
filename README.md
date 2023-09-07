@@ -29,7 +29,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
    <tr>
     <td>07.09. </td>
-    <td><a href="./PB-Sem1.ipynb">Interacting with Python and basic functions</a><br>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week1/interacting%20with%20python%20and%20basic%20functions.md">Interacting with Python and basic functions</a><br>
       <a href="./PB-Sem2.ipynb"> Datatypes and variables</a><br>
     <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week1/markdown.md">Markdown</a><br>
     <a href="./PBSem3.ipynb"> Control structures</a></td>
