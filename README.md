@@ -91,7 +91,7 @@ NER
   </td>
     <td></td>
   <td></td>
-    <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
+    <td></td>
   </tr>
     <tr>
     <td>19.10</td>
@@ -99,7 +99,7 @@ NER
   </td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
   </tr>
   </tr>
     <tr>
