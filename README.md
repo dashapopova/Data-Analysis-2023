@@ -16,7 +16,7 @@ Thur, 18.10 -- 21.00, online
 
 There is no exam. Final grade is rounded in favor of the student. 
 
-If you opt out of attending the class because you've had training in Python before, you can submit a project.
+If you opt out of attending the class because you've had training in Python before, you can submit a project instead of doing the assignments.
 
 ### Schedule
 <table>
