@@ -32,7 +32,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td>1. <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week1/interacting%20with%20python%20and%20basic%20functions.md">Interacting with Python and basic functions</a><br>   
     2. <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week1/markdown.md">Markdown</a><br>
     3. <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week1/datatypes%20and%20variables.md"> Datatypes and variables</a><br>
-    4. <a href="./PBSem3.ipynb"> Control structures</a></td>
+    4. <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week1/PBSem3.ipynb"> Control structures</a></td>
     <td></td>
     <td></td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
