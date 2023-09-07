@@ -60,8 +60,8 @@ If you opt out of attending the class because you've had training in Python befo
     <td>Regular expressions<br>
       Text manipulation
   </td>
-    <td></td>
-    <td></td>
+    <td>Assignment 1 / Project consultation 20:20-21:00</td>
+    <td>can be completed in class for the max. of 10 points, by 28.09 for the max. of 8 points, by 05.10 for the max. of 6 points</td>
     <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
    </tr>
     <tr>
@@ -71,8 +71,8 @@ Pymystem, pymorphy<br>
 Syntactic parsing<br>
 NER
     </td>
-    <td> </td>
-    <td></td>
+    <td> Assignment 2 </td>
+    <td>can be completed in class for the max. of 10 points, by 05.10 for the max. of 8 points, by 12.10 for the max. of 6 points</td>
     <td>
   </td>
   </tr>
@@ -80,8 +80,8 @@ NER
     <td>05.10. </td>
     <td>Word2Vec
   </td>
-    <td></td>
-    <td></td>
+    <td>Assignment 3</td>
+    <td>can be completed in class for the max. of 10 points, by 12.10 for the max. of 8 points, by 19.10 for the max. of 6 points</td>
     <td></td>
   </tr>
     <tr>
@@ -98,7 +98,7 @@ NER
     <td>Databases
   </td>
     <td></td>
-    <td></td>
+    <td>Project is due</td>
     <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
   </tr>
   </tr>
