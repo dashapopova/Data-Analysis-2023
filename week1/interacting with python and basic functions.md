@@ -177,6 +177,7 @@ int(’3’) + int(’3’ + ’3’)
 3. What’s the difference between these?
 
 ```’This is Mike’.upper().lower()
+
 ’This is Mike’.lower().upper()
 ```
 4. Why does ```upper(’This is a cat’)``` not work?
