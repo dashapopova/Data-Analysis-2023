@@ -171,8 +171,8 @@ that name, your last name, the number of characters in that name, and then
 concatenates and prints the two names (with a space).
 2. What’s the difference between these?
 ```
-str(3 + 3) + ’3’
-int(’3’) + int(’3’ + ’3’)
+str(3 + 3) + '3'
+int('3') + int('3' + '3')
 ```
 3. What’s the difference between these?
 
@@ -180,7 +180,7 @@ int(’3’) + int(’3’ + ’3’)
 
 `'This is Mike'.lower().upper()`
 
-4. Why does ```upper(’This is a cat’)``` not work?
+4. Why does ```upper('This is a cat')``` not work?
 5. What does the mathematical operator `**` do?
 6. In math, `6 + 2` and `2 + 6` mean the same thing. We’ve seen that `+` and `*`
 can be used with strings too. What happens if arguments are reversed when
