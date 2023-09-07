@@ -47,7 +47,9 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
   <tr>
     <td>14.09. </td>
-    <td>
+    <td>Input--Output<br>
+      On functions<br>
+      Subroutines and modules
     </td>
     <td></td>
     <td></td>
@@ -55,11 +57,12 @@ If you opt out of attending the class because you've had training in Python befo
     </td>
   </tr>
     <td>21.09. </td>
-    <td>
+    <td>Regular expressions<br>
+      Text manipulation
   </td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
    </tr>
     <tr>
     <td>28.09. </td>
