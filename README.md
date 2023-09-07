@@ -66,7 +66,10 @@ If you opt out of attending the class because you've had training in Python befo
    </tr>
     <tr>
     <td>28.09. </td>
-    <td>
+    <td>Classes<br>
+Pymystem, pymorphy<br>
+Syntactic parsing<br>
+NER
     </td>
     <td> </td>
     <td></td>
@@ -75,7 +78,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>05.10. </td>
-    <td>
+    <td>Word2Vec
   </td>
     <td></td>
     <td></td>
@@ -83,8 +86,8 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>12.10 </td>
-    <td>
-     
+    <td>Pandas<br>
+     Graphs
   </td>
     <td></td>
   <td></td>
@@ -92,7 +95,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>19.10</td>
-    <td>
+    <td>Databases
   </td>
     <td></td>
     <td></td>
@@ -101,7 +104,9 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>TBD</td>
-    <td></td>
+    <td>HTML parsing<br>
+    JSON<br>
+    API</td>
     <td></td>
     <td></td>
     <td></td>
