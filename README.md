@@ -47,7 +47,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
   <tr>
     <td>14.09. </td>
-    <td>Input--Output<br>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week2/PBSem4.ipynb">Input--Output</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week2/OnFunctions.md">On functions</a><br>
       Subroutines and modules
     </td>
