@@ -57,7 +57,7 @@ If you opt out of attending the class because you've had training in Python befo
     </td>
   </tr>
     <td>21.09. </td>
-    <td>Regular expressions<br>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week3/RE.ipynb">Regular expressions</a><br>
       Text manipulation
   </td>
     <td>Assignment 1 / Project consultation 20:20-21:00</td>
