@@ -68,7 +68,7 @@ If you opt out of attending the class because you've had training in Python befo
     <tr>
     <td>28.09. </td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PP_classes.ipynb">Classes</a><br>
-Pymystem, pymorphy<br>
+<a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PPSem1.ipynb">Pymystem, pymorphy</a><br>
 Syntactic parsing<br>
 NER
     </td>
