@@ -74,7 +74,8 @@ NER
     </td>
     <td> Assignment 2 </td>
     <td>can be completed in class for the max. of 10 points, by 05.10 for the max. of 8 points, by 12.10 for the max. of 6 points</td>
-    <td>Tutorial on classes(https://www.w3schools.com/python/python_classes.asp)
+    <td>Tutorial on classes (https://www.w3schools.com/python/python_classes.asp)<br>
+      Mystem (https://yandex.ru/dev/mystem/)
   </td>
   </tr>
     <tr>
