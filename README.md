@@ -60,7 +60,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td><a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week3/RE.ipynb">Regular expressions</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week3/TextManipulation(1).ipynb">Text manipulation</a>
   </td>
-    <td>Assignment 1 / Project consultation 20:20-21:00</td>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/DA_Assignment1.ipynb">Assignment 1</a> / Project consultation 20:20-21:00</td>
     <td>can be completed in class for the max. of 10 points, by 28.09 for the max. of 8 points, by 05.10 for the max. of 6 points</td>
     <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)<br>
     Tutorial (https://www.w3schools.com/python/python_regex.asp)</td>
