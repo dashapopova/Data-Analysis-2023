@@ -70,7 +70,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td><a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PP_classes.ipynb">Classes</a><br>
 <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PPSem1.ipynb">Pymystem, pymorphy</a><br>
 <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/PP_SpaCy.ipynb">Syntactic parsing</a><br>
-NER
+<a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/NER.ipynb">NER</a>
     </td>
     <td> Assignment 2 </td>
     <td>can be completed in class for the max. of 10 points, by 05.10 for the max. of 8 points, by 12.10 for the max. of 6 points</td>
