@@ -80,7 +80,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>05.10. </td>
-    <td>Word2Vec
+    <td><a href="https://github.com/dashapopova/Data-Analysis-2023/tree/main/week5">Vectorization</a>
   </td>
     <td>Assignment 3</td>
     <td>can be completed in class for the max. of 10 points, by 12.10 for the max. of 8 points, by 19.10 for the max. of 6 points</td>
