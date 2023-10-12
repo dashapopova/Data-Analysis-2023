@@ -88,8 +88,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>12.10 </td>
-    <td>Pandas<br>
-     Graphs
+    <td><a href="https://github.com/dashapopova/Data-Analysis-2023/tree/main/week6">Pandas</a>
   </td>
     <td></td>
   <td></td>
