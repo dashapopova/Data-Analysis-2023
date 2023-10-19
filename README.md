@@ -104,7 +104,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
   </tr>
     <tr>
-    <td>TBD</td>
+    <td>01.11</td>
     <td>HTML parsing<br>
     JSON<br>
     API<br>
