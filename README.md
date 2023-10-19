@@ -96,7 +96,7 @@ If you opt out of attending the class because you've had training in Python befo
   </tr>
     <tr>
     <td>19.10</td>
-    <td>Databases
+    <td><a href="https://github.com/dashapopova/Data-Analysis-2023/tree/main/week7">Databases</a>
   </td>
     <td></td>
     <td>Project is due</td>
@@ -107,7 +107,8 @@ If you opt out of attending the class because you've had training in Python befo
     <td>TBD</td>
     <td>HTML parsing<br>
     JSON<br>
-    API</td>
+    API<br>
+    Graphs</td>
     <td></td>
     <td></td>
     <td></td>
