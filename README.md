@@ -108,7 +108,7 @@ If you opt out of attending the class because you've had training in Python befo
     <td>HTML parsing<br>
     JSON<br>
     API<br>
-    Graphs</td>
+    <a href="https://github.com/dashapopova/Data-Analysis-2023/blob/main/week8/PP_graphs.ipynb">Graphs</a></td>
     <td></td>
     <td></td>
     <td></td>
